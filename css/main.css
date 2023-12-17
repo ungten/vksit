@@ -135,7 +135,7 @@ a {
 }
 
 main {
-  background: no-repeat center/100% url("/img/bg.svg");
+  background: no-repeat center/100% url("../img/bg.svg");
   height: 95vh;
 }
 main .section__title {
@@ -178,7 +178,7 @@ main .section__title {
 
 .about {
   padding: 100px 0px;
-  background: no-repeat center/100% url("/img/about-gradient.svg");
+  background: no-repeat center/100% url("../img/about-gradient.svg");
 }
 .about .container {
   display: -webkit-box;
